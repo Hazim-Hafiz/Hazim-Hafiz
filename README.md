@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Hazim-Hafiz.
+I'm Hazim Abdelmonem.
 
 - 🔭 I’m currently working on OKTAMAM Group
 - 🌱 I’m currently learning Web Applications development
