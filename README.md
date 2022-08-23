@@ -1,8 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<h1 align="center">Hi 👋, I'm Hazim Abdelmonem</h1>
-<h3 align="center">A passionate Web applications developer</h3>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Hazim+Abdelmonem;A+passionate+Web+developer)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazim-hafiz&label=Profile%20views&color=0e75b6&style=flat" alt="hazim-hafiz" /> </p>
 
@@ -25,3 +26,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazim-hafiz&show_icons=true&locale=en&layout=compact" alt="hazim-hafiz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hazim-hafiz&show_icons=true&locale=en" alt="hazim-hafiz" /></p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hazim-hafiz)](https://git.io/streak-stats)
+
