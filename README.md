@@ -5,8 +5,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=38F7A5&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Hazim+Abdelmonem;A+passionate+Web+developer)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hazim-hafiz&label=Profile%20views&color=0e75b6&style=flat" alt="hazim-hafiz" /> </p>
-
 - 🔭 I’m currently working at **OKTAMAM Group**
 
 - 🌱 I’m currently learning **Web development**
