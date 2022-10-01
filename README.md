@@ -3,7 +3,7 @@
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=38F7A5&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Hazim+Abdelmonem;A+Fullstack+Web+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=055C9D&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Hazim+Abdelmonem;Fullstack+Web+developer)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working at **OKTAMAM Group**
 
