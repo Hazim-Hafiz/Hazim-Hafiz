@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at **OKTAMAM Group**
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Laravel, Vue and Alpine**
 
 - 💬 Ask me about **Web development**
 
